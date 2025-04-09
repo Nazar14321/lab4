@@ -1,0 +1,22 @@
+C:/altera/13.1/Personal_variantDKNF_IO32_Komaretskiy_AndNO.v {1 {vlog -work work C:/altera/13.1/Personal_variantDKNF_IO32_Komaretskiy_AndNO.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Personal_variantDKNF_IO32_Komaretskiy_AndNO
+
+Top level modules:
+	Personal_variantDKNF_IO32_Komaretskiy_AndNO
+
+} {} {}} C:/altera/13.1/Personal_variantDDNF_IO32_Komaretskiy_AndNO.v {1 {vlog -work work C:/altera/13.1/Personal_variantDDNF_IO32_Komaretskiy_AndNO.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Personal_variantDDNF_IO32_Komaretskiy_AndNO
+
+Top level modules:
+	Personal_variantDDNF_IO32_Komaretskiy_AndNO
+
+} {} {}} C:/altera/13.1/Ex2_IO32_Komaretskiy_OR.v {1 {vlog -work work C:/altera/13.1/Ex2_IO32_Komaretskiy_OR.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ex2_IO32_Komaretskiy_OR
+
+Top level modules:
+	Ex2_IO32_Komaretskiy_OR
+
+} {} {}}

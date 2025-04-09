@@ -1,0 +1,11 @@
+module Personal_variantDKNF_IO32_Komaretskiy_AndNO(x1,x2,x3,f);
+  input x1,x2,x3;
+  wire one;
+  assign one = 1'b1;
+
+
+  assign f = ~(one & ~(((x1)& ~(~(one & x3) & ~(one & x2)))));
+  
+  output f;
+
+endmodule
